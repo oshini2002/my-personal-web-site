@@ -57,7 +57,7 @@ const Service: NextPage = () => {
 
           <div className="icon"><i className="fa fa-rocket" /></div>
           <h4>Library Day</h4>
-          <p>During my school time, I took the lead in organizing Library Day, guiding my  group members through the planning and execution of the event. This experience helped me develop leadership, teamwork, and organizational skills.
+          <p>During my school time,I took the lead in organizing Library Day, guiding my  group members through the planning and execution of the event. This experience helped me develop leadership, teamwork, and organizational skills.
           </p>
         </div>
       </div>

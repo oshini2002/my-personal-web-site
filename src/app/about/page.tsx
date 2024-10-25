@@ -3,7 +3,7 @@ import type { NextPage } from "next";
 const About: NextPage = () => {
   return (
     <main>
-      <section className="about section" id="about">
+     <section className="about section" id="about">
         <div className="container">
           <div className="row">
             <div className="section-title padd-15">
@@ -84,7 +84,7 @@ const About: NextPage = () => {
                       </div>
                     </div>
                     <div className="skill-item padd-15">
-                      <h5>Bootstrap</h5>
+                      <h5>Bootstrap</h5>z
                       <div className="progress">
                         <div className="progress-in" style={{ width: "70%" }} />
                         <div className="skill-percent">10%</div>
