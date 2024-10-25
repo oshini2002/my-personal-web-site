@@ -34,7 +34,7 @@ Visit the live demo: [urfolio.vercel.app](https://urfolio.vercel.app)
 
 To get started, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/alsiam/urFolio.git`
+1. Clone the repository: https://github.com/oshini2002/my-personal-web-site.git
 2. Navigate to the project folder: `cd urFolio`
 3. Install dependencies: `npm install`
 4. Run the development server: `npm run dev`
